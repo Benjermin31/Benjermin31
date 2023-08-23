@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin31
+- 👋 Hi, I’m Benjamin
 - 👀 I’m interested in space technology
-- 🌱 I’m software & Networking engineering
-- 💞️ I’m looking to collaborate on application design and algarthm development.
+- 🌱 I’m a Software Engineer and a Systems Analyst and Designer
+- 💞️ I’m looking to collaborate on application & system design and algorithm development.
