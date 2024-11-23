@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin
-- 👀 I’m interested in space technology
-- 🌱 I’m a Software Engineer and a Systems Analyst and Designer
-- 💞️ I’m looking to collaborate on application & system design and algorithm development.
+- 👋 Hi, I’m Benjamin Bagonza.
+- 👀 I’m interested in Systems design & Analysis and Software Development.
+- 🌱 My stack is Python[Django], PHP[Laravel] & MERN Stack.
+- 💞 Database proficiency [Mongo DB, SQLServer & Postgres DB]
