@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Bagonza.
-- 👀 I’m interested in Systems design & Analysis and Software Development.
-- 🌱 My stack is Python[Django], PHP[Laravel] & MERN Stack.
+- 👋 Hi, I’m Benjamin Bagonza Charles.
+- 👀 I’m interested in Systems design & Analysis, Software Development and Applications Analyst.
+- 🌱 My stack is C#[DotNet], PHP[Laravel] & MERN Stack.
 - 💞 Database proficiency [Mongo DB, SQLServer & Postgres DB]
